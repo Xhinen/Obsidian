@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 0.UNIDAD DE INTRODUCCIÓN"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 0.UNIDAD DE INTRODUCCIÓN"
             }
           },
           {
@@ -156,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0.UNIDAD DE INTRODUCCIÓN"
             }
           }
         ]
@@ -182,12 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4878cd3b4bc552be",
+  "active": "6f7219167bd82639",
   "lastOpenFiles": [
-    "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
-    "Bases de datos apuntes/1.SISTEMAS DE ALMACENAMIENTO DE LA INFORMACIÓN.md",
-    "Welcome.md",
     "Bases de datos apuntes/3.SISTEMAS GESTORES DE BASES DE DATOS (AMPLIACIÓN).md",
+    "Bases de datos apuntes/1.SISTEMAS DE ALMACENAMIENTO DE LA INFORMACIÓN.md",
+    "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
+    "Welcome.md",
     "Bases de datos apuntes/2.MODELOS DE ABSTRACCIÓN Y NIVELES DE bASES DE DATOS.md",
     "Bases de datos apuntes",
     "Untitled"
