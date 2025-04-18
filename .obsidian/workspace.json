@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "58ae8cdd6cab7f36",
+    "type": "split",
+    "children": [
+      {
+        "id": "f110652a32a93674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f7219167bd82639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0.UNIDAD DE INTRODUCCIÓN"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9aabdaedd61c1c20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4878cd3b4bc552be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb62912d9af65c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dcb84ec4b435a65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "189dc35ddec5e535",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "986e3d850f8b1407",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "486fe6e7aa015944",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67d4a68548ca50a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "139a4af2003a8a33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d96f3bb8c1f13cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0.UNIDAD DE INTRODUCCIÓN"
+            }
+          },
+          {
+            "id": "c710566ab9f2adfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0.UNIDAD DE INTRODUCCIÓN"
+            }
+          },
+          {
+            "id": "b7e0de5e8e0daa45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6a57aae083462f7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0.UNIDAD DE INTRODUCCIÓN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f7219167bd82639",
+  "lastOpenFiles": [
+    "Bases de datos apuntes/1.SISTEMAS DE ALMACENAMIENTO DE LA INFORMACIÓN.md",
+    "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
+    "Welcome.md",
+    "Bases de datos apuntes/3.SISTEMAS GESTORES DE BASES DE DATOS (AMPLIACIÓN).md",
+    "Bases de datos apuntes/2.MODELOS DE ABSTRACCIÓN Y NIVELES DE bASES DE DATOS.md",
+    "Bases de datos apuntes",
+    "Untitled"
+  ]
+}
