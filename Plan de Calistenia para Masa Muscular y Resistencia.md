@@ -1,4 +1,3 @@
-# Plan de Calistenia para Masa Muscular y Resistencia
 
 ## Estructura semanal
 
