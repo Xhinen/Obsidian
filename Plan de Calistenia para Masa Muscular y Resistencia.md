@@ -25,13 +25,13 @@
 
 **Calentamiento**: 5-10 min (sentadillas ligeras, zancadas dinámicas, rotaciones de cadera).
 
-|Ejercicio|Series|Repeticiones|Progresión/Regresión|Notas|
-|---|---|---|---|---|
-|Sentadillas con peso corporal|3-4|10-15|Progresión: Sentadillas con salto o pistol squat asistido. Regresión: Media sentadilla.|Rodillas alineadas con pies, espalda recta.|
-|Zancadas alternas|3-4|8-12 por pierna|Progresión: Zancadas con salto. Regresión: Zancadas estáticas.|Paso largo, rodilla trasera cerca del suelo.|
-|Elevaciones de talones (gemelos)|3-4|15-20|Progresión: En un borde (un solo pie). Regresión: Ambas piernas.|Sube lentamente, baja controlado.|
-|Plancha con toques de hombro|3|30-45 segundos|Progresión: Plancha con levantamiento de pierna. Regresión: Plancha estática.|Core activado, sin mover caderas.|
-|Elevaciones de piernas (colgando o en suelo)|3|10-15|Progresión: Colgando en barra. Regresión: Rodillas al pecho.|Movimiento controlado, sin balanceo.|
+| Ejercicio                                    | Series | Repeticiones    | Progresión/Regresión                                                                    | Notas                                        |
+| -------------------------------------------- | ------ | --------------- | --------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Sentadillas con peso corporal                | 3-4    | 10-15           | Progresión: Sentadillas con salto o pistol squat asistido. Regresión: Media sentadilla. | Rodillas alineadas con pies, espalda recta.  |
+| Zancadas alternas                            | 3-4    | 8-12 por pierna | Progresión: Zancadas con salto. Regresión: Zancadas estáticas.                          | Paso largo, rodilla trasera cerca del suelo. |
+| Elevaciones de talones (gemelos)             | 3-4    | 15-20           | Progresión: En un borde (un solo pie). Regresión: Ambas piernas.                        | Sube lentamente, baja controlado.            |
+| Plancha con toques de hombro                 | 3      | 30-45 segundos  | Progresión: Plancha con levantamiento de pierna. Regresión: Plancha estática.           | Core activado, sin mover caderas.            |
+| Elevaciones de piernas (colgando o en suelo) | 3      | 10-15           | Progresión: Colgando en barra. Regresión: Rodillas al pecho.                            | Movimiento controlado, sin balanceo.         |
 
 **Enfriamiento**: Estiramientos de cuádriceps, isquiotibiales y glúteos (2-3 min).
 
