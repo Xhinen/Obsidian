@@ -39,13 +39,13 @@
 
 **Calentamiento**: 5-10 min (movilidad dinámica, 10 sentadillas, 5 flexiones).
 
-|Ejercicio|Series|Repeticiones|Progresión/Regresión|Notas|
-|---|---|---|---|---|
-|Flexiones declinadas|3-4|8-12|Progresión: Flexiones con palmada. Regresión: Flexiones estándar.|Pies elevados, cuerpo recto.|
-|Sentadillas con pausa (3 seg abajo)|3-4|8-12|Progresión: Pistol squat asistido. Regresión: Sentadilla normal.|Pausa para mayor tensión muscular.|
-|Dominadas pronas (o remo invertido)|3-4|8-12|Progresión: Dominadas con peso. Regresión: Remo bajo mesa.|Control en la bajada.|
-|Fondos en banco|3-4|8-12|Progresión: Fondos en paralelas. Regresión: Piernas más cerca.|Baja hasta que brazos formen 90°.|
-|Plancha lateral (cada lado)|3|20-30 segundos|Progresión: Levanta pierna superior. Regresión: Rodilla apoyada.|Mantén cadera elevada.|
+| Ejercicio                           | Series | Repeticiones   | Progresión/Regresión                                              | Notas                              |
+| ----------------------------------- | ------ | -------------- | ----------------------------------------------------------------- | ---------------------------------- |
+| Flexiones declinadas                | 3-4    | 8-12           | Progresión: Flexiones con palmada. Regresión: Flexiones estándar. | Pies elevados, cuerpo recto.       |
+| Sentadillas con pausa (3 seg abajo) | 3-4    | 8-12           | Progresión: Pistol squat asistido. Regresión: Sentadilla normal.  | Pausa para mayor tensión muscular. |
+| Dominadas pronas (o remo invertido) | 3-4    | 8-12           | Progresión: Dominadas con peso. Regresión: Remo bajo mesa.        | Control en la bajada.              |
+| Fondos en banco                     | 3-4    | 8-12           | Progresión: Fondos en paralelas. Regresión: Piernas más cerca.    | Baja hasta que brazos formen 90°.  |
+| Plancha lateral (cada lado)         | 3      | 20-30 segundos | Progresión: Levanta pierna superior. Regresión: Rodilla apoyada.  | Mantén cadera elevada.             |
 
 **Enfriamiento**: Estiramientos de cuerpo completo (2-3 min).
 
