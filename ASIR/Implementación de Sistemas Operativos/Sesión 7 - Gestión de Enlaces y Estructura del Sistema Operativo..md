@@ -21,6 +21,4 @@ El documento titulado "Implantación de Sistemas Operativos y Enlaces Simbólico
 - La gestión de información del sistema incluye el monitoreo de estadísticas de rendimiento y confiabilidad.
 - Utilizar estas herramientas es esencial para mantener la eficiencia operativa de los sistemas informáticos.
 
-En resumen, el documento proporciona una visión general sobre el uso de enlaces simbólicos en la gestión de archivos, la estructura de directorios en sistemas operativos, así como herramientas útiles para obtener información y diagnosticar el rendimiento de un sistema. 
-
-¿Te gustaría que profundizara en alguna sección específica o necesitas información adicional sobre alguna herramienta mencionada?
+En resumen, el documento proporciona una visión general sobre el uso de enlaces simbólicos en la gestión de archivos, la estructura de directorios en sistemas operativos, así como herramientas útiles para obtener información y diagnosticar el rendimiento de un sistema.
