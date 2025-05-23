@@ -1,24 +1,78 @@
-El documento titulado "Implantación de Sistemas Operativos y Enlaces Simbólicos" aborda varios temas clave relacionados con la gestión de sistemas operativos y el uso de enlaces simbólicos. A continuación, se resumen las secciones más importantes:
+### 🔗 1. Gestión de Enlaces
 
-## Enlaces Simbólicos y su Funcionalidad
-- Los enlaces simbólicos, también conocidos como soft links, permiten crear accesos a otros archivos sin duplicar su contenido.
-- Los cambios realizados en el archivo original se reflejan automáticamente en el enlace simbólico.
-- Eliminar un enlace simbólico no afecta al archivo original.
-- Son utilizados tanto en sistemas Linux como en Windows, facilitando la gestión de archivos y copias de seguridad.
+#### ➤ Enlaces simbólicos
 
-## Estructura de Directorios en Sistemas Operativos
-- Los sistemas de archivos organizan datos de forma jerárquica en un árbol de directorios.
-- En Windows, la unidad C: contiene programas y archivos del sistema, con una distinción entre aplicaciones de 32 y 64 bits.
-- La carpeta de usuarios permite el intercambio de información y contiene subcarpetas específicas para cada usuario, como Documentos y Descargas.
+- Son archivos que enlazan a otros archivos, ya sea localmente o remotamente.
+    
+- También se conocen como **soft links**.
+    
+- Cambios en el archivo enlazado se reflejan en el original, pero si se elimina el enlace, el archivo original permanece.
+    
+- **Terminología según sistema operativo**:
+    
+    - **Linux:** entrada del sistema.
+        
+    - **Windows:** acceso directo.
+        
+- **Ventajas:** velocidad, sincronización automática, y facilidad para copias de seguridad.
+    
 
-## Herramientas para la Búsqueda de Información del Sistema
-- Comandos como `systeminfo` en Windows y `uname` en Linux se utilizan para obtener información del sistema.
-- Herramientas gráficas como `Msinfo32` y `CPU-Z` ayudan a diagnosticar el rendimiento y el estado del sistema.
-- La identificación de usuarios y el software instalado puede llevarse a cabo mediante comandos específicos en la terminal.
+#### ➤ Tipos de enlaces
 
-## Gestión del Rendimiento y Estadísticas del Sistema
-- Herramientas como CPU-Z y ESET ofrecen diagnósticos gratuitos para evaluar el rendimiento del PC.
-- La gestión de información del sistema incluye el monitoreo de estadísticas de rendimiento y confiabilidad.
-- Utilizar estas herramientas es esencial para mantener la eficiencia operativa de los sistemas informáticos.
+- **Enlace absoluto:** contiene la ruta completa al archivo destino (ejemplo en Windows: `C:\Users\Usuario\Documents...`).
+    
+- **Enlace relativo:** especifica una ruta parcial; depende del contexto del directorio actual (ejemplo: URL sin dominio completo).
+    
 
-En resumen, el documento proporciona una visión general sobre el uso de enlaces simbólicos en la gestión de archivos, la estructura de directorios en sistemas operativos, así como herramientas útiles para obtener información y diagnosticar el rendimiento de un sistema.
+---
+
+### 🗂️ 2. Estructura de Directorios del Sistema Operativo
+
+La organización en ambos sistemas es **jerárquica**, con estructura en forma de árbol de directorios.
+
+#### ➤ En Windows:
+
+- **Unidad C:** principal contenedor del sistema operativo y software.
+    
+    - **"Archivos de programa":** aplicaciones de 64 bits (en sistemas x64).
+        
+    - **"Archivos de programa (x86)":** aplicaciones de 32 bits.
+        
+    - **PerfLogs:** registros de seguimiento y rendimiento.
+        
+    - **Usuarios:** carpetas para cada usuario con subdirectorios como Documentos, Escritorio, Descargas, etc.
+        
+
+#### ➤ Comando útil:
+
+- `echo %windir%`: revela el directorio donde está instalado Windows.
+
+---
+
+### 🔍 3. Búsqueda de Información del Sistema
+
+Comparación de herramientas gráficas y comandos en **Windows y Linux**:
+
+|Funcionalidad|Windows|Linux|
+|---|---|---|
+|Info sistema|`Systeminfo`|`uname`|
+|Licencia Win|`slmgr /dlv`|-|
+|Usuarios|-|`who`|
+|Red|`ipconfig`|`ifconfig`|
+|Fabricante|-|`sudo dmidecode -s system-manufacturer`|
+### 🧾 4. Identificación del Software Instalado
+
+Se ilustra cómo abrir instaladores o ejecutables específicos:
+
+- Ejemplo: abrir el instalador de **FileZilla** desde una ruta en `Downloads` usando el comando `start`.
+    
+
+---
+
+### 📊 5. Gestión de Rendimiento y Estadísticas
+
+Herramientas recomendadas para análisis y diagnóstico del sistema:
+
+- **CPU-Z:** muestra información detallada del procesador y hardware.
+    
+- **ESET Diagnostic Tool:** herramienta gratuita para diagnóstico del sistema desde la web de ESET.
