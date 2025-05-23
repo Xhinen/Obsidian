@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASIR/Implementación de Sistemas Operativos/Sesión 12 - Estructura de trabajo en grupos.md",
+                "file": "ASIR/Planificación y Administración de Redes/Sesión - Routers en las LAN y WAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 12 - Estructura de trabajo en grupos"
+              "title": "Sesión - Routers en las LAN y WAN"
             }
           }
         ]
@@ -170,11 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "189dc35ddec5e535",
+  "active": "f751c564c45b273c",
   "lastOpenFiles": [
+    "ASIR/Implementación de Sistemas Operativos/Sesión 12 - Estructura de trabajo en grupos.md",
+    "ASIR/Planificación y Administración de Redes/Sesión - Routers en las LAN y WAN.md",
     "ASIR/Planificación y Administración de Redes",
     "ASIR/Sin título.md",
-    "ASIR/Implementación de Sistemas Operativos/Sesión 12 - Estructura de trabajo en grupos.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 11 - Servicio de ficheros distribuidos.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 10 - Discos de arranque y Discos de recuperación.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 9 - Montaje de volúmenes, bacups..md",
@@ -195,7 +196,6 @@
     "Bases de datos apuntes/3.SISTEMAS GESTORES DE BASES DE DATOS (AMPLIACIÓN).md",
     "Bases de datos apuntes/1.SISTEMAS DE ALMACENAMIENTO DE LA INFORMACIÓN.md",
     "Welcome.md",
-    "Bases de datos apuntes/2.MODELOS DE ABSTRACCIÓN Y NIVELES DE bASES DE DATOS.md",
-    "Bases de datos apuntes"
+    "Bases de datos apuntes/2.MODELOS DE ABSTRACCIÓN Y NIVELES DE bASES DE DATOS.md"
   ]
 }
