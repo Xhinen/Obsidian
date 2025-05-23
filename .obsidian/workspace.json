@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASIR/Implementación de Sistemas Operativos/Sesión 11 - Servicio de ficheros distribuidos.md",
+                "file": "ASIR/Implementación de Sistemas Operativos/Sesión 12 - Estructura de trabajo en grupos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 11 - Servicio de ficheros distribuidos"
+              "title": "Sesión 12 - Estructura de trabajo en grupos"
             }
           }
         ]
@@ -170,10 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f751c564c45b273c",
+  "active": "189dc35ddec5e535",
   "lastOpenFiles": [
-    "ASIR/Implementación de Sistemas Operativos/Sesión 10 - Discos de arranque y Discos de recuperación.md",
+    "ASIR/Planificación y Administración de Redes",
+    "ASIR/Sin título.md",
+    "ASIR/Implementación de Sistemas Operativos/Sesión 12 - Estructura de trabajo en grupos.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 11 - Servicio de ficheros distribuidos.md",
+    "ASIR/Implementación de Sistemas Operativos/Sesión 10 - Discos de arranque y Discos de recuperación.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 9 - Montaje de volúmenes, bacups..md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 6 - Virtualización.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 8 - Montaje y Desmontaje, Administración de Discos y RAID.md",
