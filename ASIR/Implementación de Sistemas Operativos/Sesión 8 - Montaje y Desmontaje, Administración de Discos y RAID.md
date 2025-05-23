@@ -115,21 +115,3 @@ Permite agregar espacio a volúmenes existentes usando herramientas integradas e
         
     - [HardZone - RAID](https://hardzone.es/tutoriales/montaje/raid-discos-duros/)
         
-
----
-
-### 🧾 Conclusión
-
-La sesión 8 ofrece una visión completa y práctica sobre la gestión del almacenamiento en sistemas operativos modernos. Desde montar dispositivos y automatizar tareas hasta gestionar discos y configurar RAID por software, el contenido está orientado a preparar al estudiante para una administración eficiente, segura y tolerante a fallos de los sistemas de almacenamiento.
-
----
-
-**🔍 Looking to explore deeper?**  
-Try **[SciSpace](https://scispace.com/?utm_source=chatgpt)** — the AI platform for academic research. It's your all-in-one workspace to discover, read, and analyze scientific literature. Whether you're a student, researcher, or lifelong learner, SciSpace helps you simplify papers, generate insights, and power your scientific journey with confidence.
-
-```markdown
-#### Users also ask these questions:
-- ¿Cuáles son las diferencias clave entre RAID 0, 1 y 5?
-- ¿Qué comandos permiten monitorizar discos en Linux de forma avanzada?
-- ¿Cómo automatizar tareas críticas en servidores Linux con cron y systemd?
-```
