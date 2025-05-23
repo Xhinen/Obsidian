@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan de Calistenia para Masa Muscular y Resistencia.md",
+                "file": "ASIR/Implementación de Sistemas Operativos/Sesión 6 - Virtualización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan de Calistenia para Masa Muscular y Resistencia"
+              "title": "Sesión 6 - Virtualización"
             }
           }
         ]
@@ -172,8 +172,12 @@
   },
   "active": "f751c564c45b273c",
   "lastOpenFiles": [
-    "Plan de Calistenia para Masa Muscular y Resistencia 3.markdown",
     "Plan de Calistenia para Masa Muscular y Resistencia.md",
+    "ASIR/Implementación de Sistemas Operativos/Sesión 6 - Virtualización.md",
+    "ASIR/Implementación de Sistemas Operativos",
+    "Sin nombre",
+    "ASIR",
+    "Plan de Calistenia para Masa Muscular y Resistencia 3.markdown",
     "Plan de Calistenia para Masa Muscular y Resistencia 2.markdown",
     "Plan de Calistenia para Masa Muscular y Resistencia 1.markdown",
     "prueba/Plan de Calistenia para Masa Muscular y Resistencia.markdown",
@@ -184,7 +188,6 @@
     "Bases de datos apuntes/1.SISTEMAS DE ALMACENAMIENTO DE LA INFORMACIÓN.md",
     "Welcome.md",
     "Bases de datos apuntes/2.MODELOS DE ABSTRACCIÓN Y NIVELES DE bASES DE DATOS.md",
-    "Bases de datos apuntes",
-    "Untitled"
+    "Bases de datos apuntes"
   ]
 }
