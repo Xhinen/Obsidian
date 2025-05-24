@@ -11,14 +11,10 @@
             "id": "f751c564c45b273c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASIR/Planificación y Administración de Redes/Sesión 11 - VLAN -VTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 11 - VLAN -VTP"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -150,13 +146,33 @@
               "icon": "lucide-list",
               "title": "Outline of 0.UNIDAD DE INTRODUCCIÓN"
             }
+          },
+          {
+            "id": "517129dd2cb99334",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "22aeb065e38a3cf3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f751c564c45b273c",
+  "active": "22aeb065e38a3cf3",
   "lastOpenFiles": [
-    "ASIR/Planificación y Administración de Redes/Sesión 10 - Protocolo IEEE 802.1Q  (Introducción a VLANS).md",
+    "Sin título.canvas",
+    "ASIR/Implementación de Sistemas Operativos/Sesión 6 - Virtualización.md",
     "ASIR/Planificación y Administración de Redes/Sesión 11 - VLAN -VTP.md",
+    "ASIR/Planificación y Administración de Redes/Sesión 10 - Protocolo IEEE 802.1Q  (Introducción a VLANS).md",
     "ASIR/Planificación y Administración de Redes/Sesión 9 - Redes Inalámbricas.md",
     "ASIR/Planificación y Administración de Redes/Sesión 8 - LAN y WAN.md",
     "ASIR/Planificación y Administración de Redes/Sesión 6 - Routers en las LAN y WAN.md",
@@ -184,7 +202,6 @@
     "ASIR/Implementación de Sistemas Operativos/Sesión 11 - Servicio de ficheros distribuidos.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 10 - Discos de arranque y Discos de recuperación.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 9 - Montaje de volúmenes, bacups..md",
-    "ASIR/Implementación de Sistemas Operativos/Sesión 6 - Virtualización.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 8 - Montaje y Desmontaje, Administración de Discos y RAID.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 7 - Gestión de Enlaces y Estructura del Sistema Operativo..md",
     "Plan de Calistenia para Masa Muscular y Resistencia.md",
@@ -197,10 +214,10 @@
     "prueba/Plan de Calistenia para Masa Muscular y Resistencia.markdown",
     "prueba",
     "Plan de Calistenia para Masa Muscular y Resistencia.markdown",
-    "Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
-    "Bases de datos apuntes/3.SISTEMAS GESTORES DE BASES DE DATOS (AMPLIACIÓN).md",
-    "Bases de datos apuntes/1.SISTEMAS DE ALMACENAMIENTO DE LA INFORMACIÓN.md",
+    "ASIR/Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
+    "ASIR/Bases de datos apuntes/3.SISTEMAS GESTORES DE BASES DE DATOS (AMPLIACIÓN).md",
+    "ASIR/Bases de datos apuntes/1.SISTEMAS DE ALMACENAMIENTO DE LA INFORMACIÓN.md",
     "Welcome.md",
-    "Bases de datos apuntes/2.MODELOS DE ABSTRACCIÓN Y NIVELES DE bASES DE DATOS.md"
+    "ASIR/Bases de datos apuntes/2.MODELOS DE ABSTRACCIÓN Y NIVELES DE bASES DE DATOS.md"
   ]
 }
