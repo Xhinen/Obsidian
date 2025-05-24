@@ -11,10 +11,14 @@
             "id": "f751c564c45b273c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "ASIR/Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0.UNIDAD DE INTRODUCCIÓN"
             }
           }
         ]
@@ -186,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22aeb065e38a3cf3",
+  "active": "f751c564c45b273c",
   "lastOpenFiles": [
     "Sin título.canvas",
     "ASIR/Implementación de Sistemas Operativos/Sesión 6 - Virtualización.md",
