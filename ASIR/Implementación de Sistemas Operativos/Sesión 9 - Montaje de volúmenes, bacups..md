@@ -51,7 +51,8 @@ Los tipos de copias de seguridad se pueden clasificar según su **método de eje
 - **Diferenciales**: Copiar todos los cambios desde la última copia completa en un disco externo.
 - **En espejo**: Mantener una carpeta idéntica en un disco externo que se actualiza al instante.
 
-Ejemplos de herramientas profesionales y empresariales para cada tipo de copia de seguridad (completas, incrementales, diferenciales y en espejo), así como para copias automáticas y manuales, basándome en soluciones ampliamente utilizadas en entornos corporativos. Estas herramientas son ideales para empresas que necesitan proteger datos críticos, cumplir con normativas como GDPR o HIPAA, y garantizar la continuidad del negocio. También incluyo referencias a fuentes confiables para respaldar la selección.
+### Ejemplos de herramientas profesionales y empresariales
+Para cada tipo de copia de seguridad (completas, incrementales, diferenciales y en espejo), así como para copias automáticas y manuales, basándome en soluciones ampliamente utilizadas en entornos corporativos. Estas herramientas son ideales para empresas que necesitan proteger datos críticos, cumplir con normativas como GDPR o HIPAA, y garantizar la continuidad del negocio. También incluyo referencias a fuentes confiables para respaldar la selección.
 
 #### **1. Copias de seguridad automáticas**
 Herramientas que permiten programar copias sin intervención manual, ideales para entornos empresariales con grandes volúmenes de datos.
