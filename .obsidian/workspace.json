@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASIR/Implementación de Sistemas Operativos/Sesión 10 - Discos de arranque y Discos de recuperación.md",
+                "file": "ASIR/Implementación de Sistemas Operativos/Sesión 11 - Servicio de ficheros distribuidos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 10 - Discos de arranque y Discos de recuperación"
+              "title": "Sesión 11 - Servicio de ficheros distribuidos"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "f751c564c45b273c",
   "lastOpenFiles": [
+    "ASIR/Implementación de Sistemas Operativos/Sesión 10 - Discos de arranque y Discos de recuperación.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 9 - Montaje de volúmenes, bacups..md",
     "ASIR/Bases de datos apuntes/0.UNIDAD DE INTRODUCCIÓN.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 6 - Virtualización.md",
@@ -206,7 +207,6 @@
     "ASIR/Planificación y Administración de Redes",
     "ASIR/Sin título.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 11 - Servicio de ficheros distribuidos.md",
-    "ASIR/Implementación de Sistemas Operativos/Sesión 10 - Discos de arranque y Discos de recuperación.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 8 - Montaje y Desmontaje, Administración de Discos y RAID.md",
     "ASIR/Implementación de Sistemas Operativos/Sesión 7 - Gestión de Enlaces y Estructura del Sistema Operativo..md",
     "Plan de Calistenia para Masa Muscular y Resistencia.md",
